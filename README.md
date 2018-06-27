@@ -6,3 +6,6 @@ https://glitch.com/edit/#!/melodic-olive?path=server.js:60:5
 
 Drill #3: DELETE example
 https://glitch.com/edit/#!/fir-fork?path=server.js:76:19
+
+Drill #4: PUT example
+https://glitch.com/edit/#!/sore-juice?path=server.js:136:3
